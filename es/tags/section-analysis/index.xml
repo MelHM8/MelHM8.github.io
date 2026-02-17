@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Section-Analysis on Mel Huaman</title><link>https://MelHM8.github.io/es/tags/section-analysis/</link><description>Recent content in Section-Analysis on Mel Huaman</description><generator>Hugo</generator><language>es</language><atom:link href="https://MelHM8.github.io/es/tags/section-analysis/index.xml" rel="self" type="application/rss+xml"/><item><title>Reinforced Concrete Walls Sectional Analysis</title><link>https://MelHM8.github.io/es/engineering/concrete_sections/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://MelHM8.github.io/es/engineering/concrete_sections/</guid><description>&lt;h4 id="this-program-allows-accurate-analysis-of-sections-of-composite-walls-of-any-geometry-based-on-current-regulations-ds-60-the-following-are-determined"&gt;This program allows accurate analysis of sections of composite walls of any geometry, based on current regulations (DS 60). The following are determined:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;3D interaction diagrams&lt;/li&gt;
+&lt;li&gt;Reinforcement modification&lt;/li&gt;
+&lt;li&gt;Displacement demand&lt;/li&gt;
+&lt;li&gt;Moment-Curvature diagram&lt;/li&gt;
+&lt;li&gt;Confinement length&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class="aspect-video w-full my-4"&gt;
+ &lt;iframe
+ src="https://www.youtube.com/embed/087BqbIQSgE?rel=0"
+ class="w-full h-full"
+ title="Reproductor de YouTube"
+ frameborder="0"
+ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+ allowfullscreen
+ style="border:0;"
+ &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id="gallery"&gt;Gallery&lt;/h3&gt;
+
+
+
+
+ &lt;div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4"&gt;
+ 
+ 
+ 
+ &lt;a href="https://MelHM8.github.io/images/album_sections/demo.png" data-fslightbox="gallery"&gt;
+ &lt;img src="https://MelHM8.github.io/images/album_sections/demo.png" alt="demo.png" class="w-full rounded shadow hover:scale-105 transition-transform duration-300" loading="lazy"&gt;
+ &lt;/a&gt;
+ 
+ 
+ &lt;a href="https://MelHM8.github.io/images/album_sections/screenshot-1-1-464x426.png" data-fslightbox="gallery"&gt;
+ &lt;img src="https://MelHM8.github.io/images/album_sections/screenshot-1-1-464x426.png" alt="screenshot-1-1-464x426.png" class="w-full rounded shadow hover:scale-105 transition-transform duration-300" loading="lazy"&gt;
+ &lt;/a&gt;
+ 
+ 
+ &lt;a href="https://MelHM8.github.io/images/album_sections/screenshot-1-1378x738.png" data-fslightbox="gallery"&gt;
+ &lt;img src="https://MelHM8.github.io/images/album_sections/screenshot-1-1378x738.png" alt="screenshot-1-1378x738.png" class="w-full rounded shadow hover:scale-105 transition-transform duration-300" loading="lazy"&gt;
+ &lt;/a&gt;
+ 
+ 
+ &lt;a href="https://MelHM8.github.io/images/album_sections/screenshot-3-1-465x429.png" data-fslightbox="gallery"&gt;
+ &lt;img src="https://MelHM8.github.io/images/album_sections/screenshot-3-1-465x429.png" alt="screenshot-3-1-465x429.png" class="w-full rounded shadow hover:scale-105 transition-transform duration-300" loading="lazy"&gt;
+ &lt;/a&gt;
+ 
+ 
+ &lt;a href="https://MelHM8.github.io/images/album_sections/screenshot-6-1-363x341.png" data-fslightbox="gallery"&gt;
+ &lt;img src="https://MelHM8.github.io/images/album_sections/screenshot-6-1-363x341.png" alt="screenshot-6-1-363x341.png" class="w-full rounded shadow hover:scale-105 transition-transform duration-300" loading="lazy"&gt;
+ &lt;/a&gt;
+ 
+ &lt;/div&gt;</description></item></channel></rss>
